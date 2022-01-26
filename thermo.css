@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(14, 39, 51);
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color: rgb(14, 39, 51);
+    color: aliceblue;
+    width: 50vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+}
+h1{
+    font-size:80px;
+}
